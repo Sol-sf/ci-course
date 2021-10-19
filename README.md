@@ -1,4 +1,5 @@
 [![Run Unit Tests](https://github.com/Sol-sf/ci-course/actions/workflows/unit-tests.yml/badge.svg)](https://github.com/Sol-sf/ci-course/actions/workflows/unit-tests.yml)
+[![codecov](https://codecov.io/gh/Sol-sf/ci-course/branch/main/graph/badge.svg?token=1QIKCZYN7P)](https://codecov.io/gh/Sol-sf/ci-course)
 
 # OxRSE Continuous Integration course
 
